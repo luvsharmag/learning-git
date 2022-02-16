@@ -1,4 +1,4 @@
-a 
-b
-c = a*b
-return c;
+void mul(int a,int b){
+    c = a*b
+    return c;
+}
